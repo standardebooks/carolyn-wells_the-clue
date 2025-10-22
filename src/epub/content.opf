@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/carolyn-wells/the-clue</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-10-22T15:59:15Z</dc:date>
+		<meta property="dcterms:modified">2025-10-22T15:59:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,17 +50,16 @@
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Madeleine Van Norman, the last living descendant of a prominent family in a modest American town, is ready to start a new chapter in her life by becoming the wife of Schuyler Carleton, a decent but far from wealthy young man. The event has gathered the attention of the local community, who celebrate the union of two lovers, and also take the opportunity to trade gossip regarding their private affairs and true intentions.&lt;/p&gt;
-			&lt;p&gt;Everyone has been looking forward to the wedding, with family and guests arriving in town to share this momentous occasion. Unfortunately, the wedding may be put on hold indefinitely after a corpse is found on the eve of the ceremony. The timing of this unexpected death and who stands to benefit from it places everyone in town under a shroud of fear and suspicion.&lt;/p&gt;
-			&lt;p&gt;It’s up to lawyer Robert Fessenden and Madeleine’s friend and bridesmaid Kitty French to investigate what really happened that night to the best of their ability, learning more about the unfamiliar town of Mapleton and those who live in it. Robert and Kitty take their time to conduct interviews with persons of interest and search for whatever clues they can find.&lt;/p&gt;
-			&lt;p&gt;Eventually, a letter is sent to call for Fleming Stone, renowned private investigator, asking him to accept the case and to apply his knowledge and skills to drive the investigation forward. The professional and amateur detectives must navigate through a web of clues and red herrings in their attempt to uncover the truth and finally bring closure to this untimely passing.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Clue&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/carolyn-wells"&gt;Carolyn Wells’&lt;/a&gt; first mystery novel after working exclusively on literature aimed at children. The book serves as the first appearance of Fleming Stone, who Wells went on to create a series of mystery novels surrounding the character, spanning over sixty books in total.&lt;/p&gt;
+			&lt;p&gt;Madeleine Van Norman, the last living descendant of a prominent family in a modest American town, is ready to start a new chapter in her life by becoming the wife of Schuyler Carleton, a decent but far from wealthy young man. The event has gathered the attention of the local community, who celebrate the union of two lovers—and who also take the opportunity to trade gossip regarding their private affairs and true intentions.&lt;/p&gt;
+			&lt;p&gt;Everyone has been looking forward to the wedding, with family and guests arriving in town to share this momentous occasion. Unfortunately, the wedding may be put on hold indefinitely after a corpse is found on the eve of the ceremony. The timing of this unexpected death, and who stands to benefit from it, places everyone in town under a shroud of fear and suspicion.&lt;/p&gt;
+			&lt;p&gt;It’s up to lawyer Robert Fessenden and Madeleine’s friend and bridesmaid Kitty French to investigate what really happened that night. Robert and Kitty conduct interviews with persons of interest and search for whatever clues they can find. Eventually Fleming Stone, the renowned private investigator, is called in to help. The detectives, both professional and amateur, must navigate a web of clues and red herrings in their attempt to uncover the truth and bring closure to this untimely death.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Clue&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/carolyn-wells"&gt;Carolyn Wells’&lt;/a&gt; first mystery novel after a career of working exclusively on children’s literature. It features the first appearance of &lt;a href="https://standardebooks.org/collections/fleming-stone"&gt;Fleming Stone&lt;/a&gt;, a popular character that went on star in over sixty books.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54869</dc:source>
 		<dc:source>https://archive.org/details/bwb_P9-CTN-025</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">64162</meta>
+		<meta property="se:reading-ease.flesch">72.56</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/carolyn-wells_the-clue</meta>
 		<dc:creator id="author">Carolyn Wells</dc:creator>
 		<meta property="file-as" refines="#author">Wells, Carolyn</meta>
@@ -87,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
