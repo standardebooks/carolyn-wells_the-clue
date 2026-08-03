@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/carolyn-wells/the-clue</dc:identifier>
 		<dc:date>2025-10-22T15:59:15Z</dc:date>
@@ -49,13 +49,13 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Madeleine Van Norman, the last living descendant of a prominent family in a modest American town, is ready to start a new chapter in her life by becoming the wife of Schuyler Carleton, a decent but far from wealthy young man. The event has gathered the attention of the local community, who celebrate the union of two lovers—and who also take the opportunity to trade gossip regarding their private affairs and true intentions.&lt;/p&gt;
 			&lt;p&gt;Everyone has been looking forward to the wedding, with family and guests arriving in town to share this momentous occasion. Unfortunately, the wedding may be put on hold indefinitely after a corpse is found on the eve of the ceremony. The timing of this unexpected death, and who stands to benefit from it, places everyone in town under a shroud of fear and suspicion.&lt;/p&gt;
 			&lt;p&gt;It’s up to lawyer Robert Fessenden and Madeleine’s friend and bridesmaid Kitty French to investigate what really happened that night. Robert and Kitty conduct interviews with persons of interest and search for whatever clues they can find. Eventually Fleming Stone, the renowned private investigator, is called in to help. The detectives, both professional and amateur, must navigate a web of clues and red herrings in their attempt to uncover the truth and bring closure to this untimely death.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Clue&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/carolyn-wells"&gt;Carolyn Wells’&lt;/a&gt; first mystery novel after a career of working exclusively on children’s literature. It features the first appearance of &lt;a href="https://standardebooks.org/collections/fleming-stone"&gt;Fleming Stone&lt;/a&gt;, a popular character that went on to star in over sixty books.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54869</dc:source>
 		<dc:source>https://archive.org/details/bwb_P9-CTN-025</dc:source>
