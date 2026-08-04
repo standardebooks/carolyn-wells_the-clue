@@ -49,7 +49,7 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:abstract>A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.</dc:abstract>
+		<meta property="schema:abstract">A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.</meta>
 		<dc:description>
 			&lt;p&gt;Madeleine Van Norman, the last living descendant of a prominent family in a modest American town, is ready to start a new chapter in her life by becoming the wife of Schuyler Carleton, a decent but far from wealthy young man. The event has gathered the attention of the local community, who celebrate the union of two lovers—and who also take the opportunity to trade gossip regarding their private affairs and true intentions.&lt;/p&gt;
 			&lt;p&gt;Everyone has been looking forward to the wedding, with family and guests arriving in town to share this momentous occasion. Unfortunately, the wedding may be put on hold indefinitely after a corpse is found on the eve of the ceremony. The timing of this unexpected death, and who stands to benefit from it, places everyone in town under a shroud of fear and suspicion.&lt;/p&gt;
